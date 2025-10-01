@@ -13,7 +13,7 @@
         - 로컬 클래스(메소드 내부에서 선언되는 중첩 클래스)
     - 중첩클래스도 컴파일 하면 바이트 코드 파일 별도 생성
 
-      !<img width="297" height="100" alt="Image" src="https://github.com/user-attachments/assets/9131e572-7884-4ca8-9760-724f4a830f7f" />
+      <img width="297" height="100" alt="Image" src="https://github.com/user-attachments/assets/9131e572-7884-4ca8-9760-724f4a830f7f" />
 
 
 - 인스턴스 멤버 클래스
