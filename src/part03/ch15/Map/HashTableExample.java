@@ -1,6 +1,5 @@
 package part03.ch15.Map;
 
-import this_is_java.ch15.List.Board;
 
 import java.util.HashMap;
 import java.util.Hashtable;
